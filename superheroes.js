@@ -1,7 +1,7 @@
 const superheroes = [
   {
     id: 7823768246723675,
-    powers: ["Unlimited Minions", "JS", "Bloody Rich"],
+    powers: ["Unlimited Minions", " JS", " Bloody Rich"],
     outfit: "Big shoulder pads",
     alias: "Lord Destroyer van der Doom",
     mission: "World Domination",
@@ -17,7 +17,7 @@ const superheroes = [
   },
   {
     id: 1,
-    powers: ["Shoveling", "beatboxing"],
+    powers: ["Shoveling", " beatboxing"],
     outfit: "Gloves & shovel",
     alias: "ShovelMan",
     mission: "Trees everywhere",
@@ -33,7 +33,7 @@ const superheroes = [
   },
   {
     id: 323200,
-    powers: ["Superior Strength", "Independent", "Agility"],
+    powers: ["Superior Strength", " Independent", " Agility"],
     outfit: "All things golden, kick-ass boots and a whip",
     alias: "Wonder Woman",
     mission: "World Peace",
@@ -49,7 +49,7 @@ const superheroes = [
   },
   {
     id: 16398402951604,
-    powers: ["knits super fast", "can turn into liquid", "heavy walk"],
+    powers: ["knits super fast", " can turn into liquid", " heavy walk"],
     outfit: "mittens",
     alias: "Thundress",
     mission: "Heavy walks are acceptable",
@@ -77,7 +77,7 @@ const superheroes = [
   },
   {
     id: 28345762,
-    powers: ["Puppies Magnet", "Hell of a Cook", "Travel back in Time"],
+    powers: ["Puppies Magnet", " Hell of a Cook", " Travel back in Time"],
     outfit: "Overall with sprinkles",
     alias: "Captain Sprinkles",
     mission: "Rescue all Dogs from the Streets",
@@ -93,7 +93,7 @@ const superheroes = [
   },
   {
     id: 782376824123456,
-    powers: ["strength", "spider-sense", "agility"],
+    powers: ["strength", " spider-sense", " agility"],
     outfit: "suit",
     alias: "Spiderman",
     mission: "Destroy bad people",
@@ -112,8 +112,8 @@ const superheroes = [
     id: 1029837102983921,
     powers: [
       "Acess to all streaming services",
-      "Good wifi",
-      "Shoot fire from hands",
+      " Good wifi",
+      " Shoot fire from hands",
     ],
     outfit: "Track suit",
     alias: "Masked Couch Potato",
@@ -133,7 +133,7 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-    powers: ["fire", "magnetism"],
+    powers: ["fire", " magnetism"],
     outfit: "combat suit",
     alias: "invader",
     mission: "assasination",
@@ -149,7 +149,7 @@ const superheroes = [
   },
   {
     id: 1804725864820182,
-    powers: ["Unlimited Positivsm", "Great chef", "Makes the sun comes out"],
+    powers: ["Unlimited Positivsm", " Great chef", " Makes the sun comes out"],
     outfit: "Fluffy body",
     alias: "Gully",
     mission: "World Mindfulness",
@@ -166,7 +166,7 @@ const superheroes = [
   },
   {
     id: 123456789420,
-    powers: ["Consuming large amounts of food", "Lactose tolerant"],
+    powers: ["Consuming large amounts of food", " Lactose tolerant"],
     outfit: "Sweatpants",
     alias: "Super Eater",
     mission: "Eat all the food in the world",
@@ -182,7 +182,7 @@ const superheroes = [
   },
   {
     id: 187526710,
-    powers: ["No Spicy Threshold", "Flying", "Strength when Angry"],
+    powers: ["No Spicy Threshold", " Flying", " Strength when Angry"],
     outfit: "Spandex Chicken Suit in Pastel Colors and Sriracha Bottle ",
     alias: "Angry Chicken Spicy Girl",
     mission: "Spread Fried Chicken to everyone in the World",
@@ -197,7 +197,7 @@ const superheroes = [
   },
   {
     id: 1105,
-    powers: ["superior strength, speed, agility, flys"],
+    powers: ["superior strength", " speed", " agility", "flys"],
     alias: "Wonder Woman",
     outfit: "Metalic dress high boots ",
     mission: "Bring peace to the outside world",
@@ -213,7 +213,7 @@ const superheroes = [
 
   {
     id: 7007007,
-    powers: ["killer farts", "green farts"],
+    powers: ["killer farts", " green farts"],
     outfit: "teddy bear pajamas",
     alias: "Killing Fart",
     mission: "Stop rush hour in the metro",
@@ -229,7 +229,7 @@ const superheroes = [
   },
   {
     id: 13,
-    powers: ["Extra loud barking", "Fur attack", "Surprise poop atack"],
+    powers: ["Extra loud barking", " Fur attack", " Surprise poop atack"],
     outfit: "Pink mask",
     alias: "Super Paws",
     mission: "Extinguish boredom and undesired baths in the world",
@@ -246,7 +246,7 @@ const superheroes = [
   },
   {
     id: 20020,
-    powers: ["reading", "cooking", "blueberry cake", "massive hair"],
+    powers: ["reading", " cooking", " blueberry cake", " massive hair"],
     outfit: "Minimal BW outfit",
     alias: "Kat de ginger",
     mission: "To inspire kids to dream bigger",
@@ -268,7 +268,7 @@ const superheroes = [
     id: 200512271,
     powers: [
       "Knows all the memes in the world",
-      "Can make a meme within seconds",
+      " Can make a meme within seconds",
     ],
     outfit: "Nerdy shirt and glasses",
     alias: "Lord of memes",
@@ -289,7 +289,7 @@ const superheroes = [
   },
   {
     id: 12937197238,
-    powers: ["Sleeping, Napping,"],
+    powers: ["Sleeping", " Napping,"],
     outfit: "Blanket",
     alias: "Sleepy Matt",
     mission: "To find the best sleeping position",
@@ -305,7 +305,7 @@ const superheroes = [
   },
   {
     id: 782364849362,
-    powers: ["Feeds Sharks", "Gives Joy to Ocean", "Farts Rainbows"],
+    powers: ["Feeds Sharks", " Gives Joy to Ocean", " Farts Rainbows"],
     outfit: "Shark Skin Tight jacket",
     alias: "Lady of Sharks",
     mission: "Save Sharks",
@@ -321,7 +321,7 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-    powers: ["Unlimited Minions", "JS", "Bloody Rich"],
+    powers: ["Unlimited Minions", " JS", " Bloody Rich"],
     outfit: "Big shoulder pads",
     alias: "Lord Destroyer van der Doom",
     mission: "World Domination",
@@ -338,7 +338,7 @@ const superheroes = [
   },
   {
     id: 122409409283,
-    powers: ["Rainfall", "Super Speed Plant Growth"],
+    powers: ["Rainfall", " Super Speed Plant Growth"],
     outfit: "Green Catsuit",
     alias: "The Green Machine",
     mission: "A Greener Earth",
@@ -354,7 +354,7 @@ const superheroes = [
   },
   {
     id: 44553377,
-    powers: ["Unlimited webs", "CSS"],
+    powers: ["Unlimited webs", " CSS"],
     outfit: "red morph suit",
     alias: "Queen of England",
     mission: "World Peace",
@@ -370,7 +370,7 @@ const superheroes = [
   },
   {
     id: 6966131228,
-    powers: ["extreme disorganization, stain master, puddle stomper"],
+    powers: ["extreme disorganization", " stain master", " puddle stomper"],
     outfit: "coffe spilled t-shirt, yesterday's jeans",
     alias: "Messy Jessy",
     mission: "Create mess everywhere she goes",
@@ -386,7 +386,7 @@ const superheroes = [
   },
   {
     id: 19091990,
-    powers: ["Intelligence", "Charisma", "Death Stare"],
+    powers: ["Intelligence", " Charisma", " Death Stare"],
     outfit: "Leather Tracksuit",
     alias: "Da One",
     mission: "Justice",
@@ -402,7 +402,7 @@ const superheroes = [
   },
   {
     id: 78237682467236761,
-    powers: ["Can fly", "Heals wounds", "Immortal"],
+    powers: ["Can fly", " Heals wounds", " Immortal"],
     outfit: "Jumpsuit",
     alias: "Crazy Cat Lady",
     mission: "Save all the cats in the world",
@@ -418,7 +418,7 @@ const superheroes = [
   },
   {
     id: 960111,
-    powers: ["smooth foundation application", "long lashes"],
+    powers: ["smooth foundation application", " long lashes"],
     outfit: "Ball gown",
     alias: "Make-up Queen",
     mission: "Teach everybody to do make-up",
@@ -435,8 +435,8 @@ const superheroes = [
     id: 2303030421,
     powers: [
       "Turns everything she touches to ice",
-      "Can fly",
-      "Can make amazing ice scluptures",
+      " Can fly",
+      " Can make amazing ice scluptures",
     ],
     outfit: "Blue dress & Ice gloves ",
     alias: "Ice Queen",
@@ -453,7 +453,7 @@ const superheroes = [
   },
   {
     id: 123,
-    powers: ["flying", "invisibility", "playing piano"],
+    powers: ["flying", " invisibility", " playing piano"],
     outfit: "All black dress and high-heels",
     alias: "Black Keys",
     mission:
@@ -469,7 +469,7 @@ const superheroes = [
   },
   {
     id: 696969696969,
-    powers: ["Unlimited servants", "JS"],
+    powers: ["Unlimited servants", " JS"],
     outfit: "Big shoes",
     alias: "Villain queen Bridget Geones",
     mission: "World domination",
@@ -485,7 +485,7 @@ const superheroes = [
   },
   {
     id: 2166660199999,
-    powers: ["Fast running", "Poison eyes", "Magic jump"],
+    powers: ["Fast running", " Poison eyes", " Magic jump"],
     outfit: "Total black ",
     alias: "Magic Poison Cat Girl",
     mission: "Destroy Coders",
@@ -502,7 +502,7 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-    powers: ["Dark Vision", "Telepathy", "Speed"],
+    powers: ["Dark Vision", " Telepathy", " Speed"],
     outfit: "Furry corset",
     alias: "Ducky duck",
     mission: "World Foxination",
@@ -518,7 +518,7 @@ const superheroes = [
   },
   {
     id: 6666666666666666,
-    powers: ["Throwing axes", "Necromancy", "Teleportation"],
+    powers: ["Throwing axes", " Necromancy", " Teleportation"],
     outfit: "Leather armor",
     alias: "Larissa Raita the Half-Orc",
     mission: "Assassination of the king",
@@ -535,7 +535,7 @@ const superheroes = [
   },
   {
     id: 429348293842132,
-    powers: ["charmer", "speaking English"],
+    powers: ["charmer", " speaking English"],
     outfit: "mankini",
     alias: "Borat",
     mission: "cultural appropriation",
@@ -551,7 +551,7 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-    powers: ["Green hell", "Wooden spikes"],
+    powers: ["Green hell", " Wooden spikes"],
     outfit: "leafs",
     alias: "Pineman",
     mission: "Save world´s forests",
@@ -568,7 +568,7 @@ const superheroes = [
   },
   {
     id: 38961741973493282139,
-    powers: ["Unlimited Strawberries", "Drawing", "Creative"],
+    powers: ["Unlimited Strawberries", " Drawing", " Creative"],
     outfit: "Pink dress",
     alias: "Strawberry Princess",
     mission: "World Peace",
@@ -585,7 +585,7 @@ const superheroes = [
   },
   {
     id: 2084640,
-    powers: ["Telepathy", "Fire Magic", "Endurance"],
+    powers: ["Telepathy", " Fire Magic", " Endurance"],
     outfit: "Shiny green top and black feather skirt",
     alias: "Bellu The Powerpuff",
     mission: "To build an empire",
@@ -601,7 +601,7 @@ const superheroes = [
   },
   {
     id: 21212121212133246,
-    powers: ["Banana shooting", "sweet"],
+    powers: ["Banana shooting", " sweet"],
     outfit: "Pink striped pyjama",
     alias: "Anna the Super banana",
     mission: "To bring justice for all bananas, rotten, ripe, all.",
@@ -618,7 +618,7 @@ const superheroes = [
   },
   {
     id: 5476806,
-    powers: ["Illusion Magic", "Fireballs", "Vicious Mockery"],
+    powers: ["Illusion Magic", " Fireballs", " Vicious Mockery"],
     outfit:
       "Leather armor colorful flowy pants, green shirt and a large feather from a peryton",
     alias: "Djune Rivers",
@@ -635,7 +635,7 @@ const superheroes = [
   },
   {
     id: 6527632849753104,
-    powers: ["flying", "super strong", "reading minds"],
+    powers: ["flying", " super strong", " reading minds"],
     outfit: "boxer shorts and a long black coat",
     alias: "pink saver",
     mission: "destroy patriarchy",
@@ -651,7 +651,7 @@ const superheroes = [
   },
   {
     id: 65648309403,
-    powers: ["Unlimited food", "Happiness", "Spices"],
+    powers: ["Unlimited food", " Happiness", " Spices"],
     outfit: "Blue fur",
     alias: "Foodilicious",
     mission: "Delivering Good Food to Everyone",
@@ -667,7 +667,7 @@ const superheroes = [
   },
   {
     id: 92993992927272979,
-    powers: ["Invincibility, speed"],
+    powers: ["Invincibility", " speed"],
     outfit: " Yami kawaii",
     alias: "the procrastinator",
     mission: "To eliminate billionaires",
@@ -684,7 +684,7 @@ const superheroes = [
   },
   {
     id: 199303200,
-    powers: ["Telepathy", "Shape Shifter", "Mind Control"],
+    powers: ["Telepathy", " Shape Shifter", " Mind Control"],
     outfit: "black leotard ",
     alias: "Mrs Villain",
     mission: "To avenge the dark lord",
@@ -699,7 +699,7 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-    powers: ["Mind Reading", "Can teleport", "Bloody Rich"],
+    powers: ["Mind Reading", " Can teleport", " Bloody Rich"],
     outfit: "Black leather costume",
     alias: "StefaTrix",
     mission: "Looking for another gifted human",
@@ -718,9 +718,9 @@ const superheroes = [
     id: 98273487098095,
     powers: [
       "Super charming powers",
-      "A love spreader",
-      "Mega reader",
-      "Giga dreamer powers",
+      " A love spreader",
+      " Mega reader",
+      " Giga dreamer powers",
     ],
     outfit: "Khaki green catwoman suit and a flower crown",
     alias: "Cognitive Caroline",
@@ -738,22 +738,15 @@ const superheroes = [
   },
   {
     id: 123456789101112,
-    powers: [
-      "Beauty",
-      "Grace",
-      "Musicality",
-      "Mobility",
-      "Strength",
-      "Coordination",
-    ],
+    powers: ["Beauty", " Grace", " Musicality", " Mobility", " Strength", " Coordination"],
     outfit: "White tutu dress",
     alias: "Miss Élégance",
     mission: "Save the world",
     cape: false,
     weaknesses: [
       "Overestimates people's sense of beauty",
-      "Blindly believes that beauty alone can save the world",
-      "Naivete",
+      " Blindly believes that beauty alone can save the world",
+      " Naivete",
     ],
     image: "http://baevastudios.com/MissElegance.jpg",
     enemies: 0,
@@ -775,11 +768,16 @@ function showSuperheroes(superhero) {
   myClone.querySelector(".mission").textContent = superhero.mission;
   myClone.querySelector("img").src = superhero.image;
   myClone.querySelector(".outfit").textContent = superhero.outfit;
-  myClone.querySelector(".cape").textContent = `cape: ${superhero.cape}`;
+  // myClone.querySelector(".cape").textContent = `cape: ${superhero.cape}`;
+  if (superhero.cape) {
+    myClone.querySelector(".cape").textContent = "Wears cape";
+  }   else {
+    myClone.querySelector(".cape").textContent = "Doesn't wear cape";
+  }
   myClone.querySelector(".weaknesses").textContent = superhero.weaknesses;
   myClone.querySelector(
     ".enemies"
-  ).textContent = `${superhero.enemies} enemies`;
+  ).textContent = `Has ${superhero.enemies} enemies`;
   myClone.querySelector(
     ".sidekick"
   ).textContent = `Friends with ${superhero.sidekick.name}`;
