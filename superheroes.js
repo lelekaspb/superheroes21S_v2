@@ -767,6 +767,7 @@ function showSuperheroes(superhero) {
   myClone.querySelector(".powers").textContent = superhero.powers;
   myClone.querySelector(".mission").textContent = superhero.mission;
   myClone.querySelector("img").src = superhero.image;
+  myClone.querySelector("img").alt = "The Superhero's image";
   myClone.querySelector(".outfit").textContent = superhero.outfit;
   // myClone.querySelector(".cape").textContent = `cape: ${superhero.cape}`;
   if (superhero.cape) {
