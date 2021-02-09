@@ -766,11 +766,12 @@ function showSuperheroes(superhero) {
   myClone.querySelector("h1").textContent = superhero.alias;
   myClone.querySelector(".powers").textContent = superhero.powers;
   myClone.querySelector(".mission").textContent = superhero.mission;
-  myClone.querySelector("img").src = superhero.image;
+  myClone.querySelector(".main_image").src = superhero.image;
   myClone.querySelector("img").alt = "The Superhero's image";
   myClone.querySelector(".outfit").textContent = superhero.outfit;
   // myClone.querySelector(".cape").textContent = `cape: ${superhero.cape}`;
   if (superhero.cape) {
+    myClone.querySelector(".ccc").src = "https://image.freepik.com/free-vector/superhero-red-cape-white-background-scarlet-fabric-silk-cloak-mantle-costume-cover-cartoon-illustration-flying-carnival-clothes_93083-586.jpg";
     myClone.querySelector(".cape").textContent = "Wears cape";
   }   else {
     myClone.querySelector(".cape").textContent = "Doesn't wear cape";
