@@ -20,10 +20,12 @@ article {
   padding: 1rem;
   box-shadow: 0 5px 5px #666c7d;
   border-radius: 5px;
+  position: relative;
 }
 
 article h1 {
   text-transform: uppercase;
+  width: 80%;
 }
 
 .powers {
@@ -57,3 +59,20 @@ img {
   font-size: 0.6rem;
 }
 
+/* img::before {
+  background-image: url('https://image.freepik.com/free-vector/superhero-red-cape-white-background-scarlet-fabric-silk-cloak-mantle-costume-cover-cartoon-illustration-flying-carnival-clothes_93083-586.jpg');
+  background-size: 100%;
+  position: absolute;
+  content: " ";
+  width: 2rem;
+  height: auto;
+} */
+
+.cape_icon {
+  width: 50px;
+  height: 60px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: 5px;
+}
