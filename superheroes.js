@@ -764,7 +764,7 @@ function showSuperheroes(superhero) {
   const myTemplate = document.querySelector("template").content;
   const myClone = myTemplate.cloneNode(true);
   myClone.querySelector("h1").textContent = superhero.alias;
-  myClone.querySelector(".powers").textContent = superhero.powers;
+  myClone.querySelector(".powers").textContent = superhero.powers.join(", ");
   myClone.querySelector(".mission").textContent = superhero.mission;
   myClone.querySelector("img.main_image").src = superhero.image;
   myClone.querySelector("img").alt = "The Superhero's image";
@@ -776,7 +776,7 @@ function showSuperheroes(superhero) {
     myClone.querySelector(".cape_icon").remove();
     myClone.querySelector(".cape").textContent = "Doesn't wear cape";
   }
-  myClone.querySelector(".weaknesses").textContent = superhero.weaknesses;
+  myClone.querySelector(".weaknesses").textContent = superhero.weaknesses.join(", ");
   myClone.querySelector(
     ".enemies"
   ).textContent = `Has ${superhero.enemies} enemies`;
